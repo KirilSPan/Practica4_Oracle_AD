@@ -56,7 +56,7 @@ end;
 prompt  Creating Groups...
 ----------------
 -- U S E R S
--- User repository for use with apex cookie based authenticaion.
+-- User repository for use with apex cookie based authenticaion. Password= 12345
 --
 prompt  Creating Users...
 begin
